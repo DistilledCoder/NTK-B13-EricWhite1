@@ -1,5 +1,7 @@
 package seleniumHWDay2;
 
-public class Exercise1 {
+import utils.Hooks;
+
+public class Exercise1 extends Hooks{
 
 }
